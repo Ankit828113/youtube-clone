@@ -34,7 +34,7 @@ The project is divided into two main directories:
 - Firebase account and Firebase SDK
 - MongoDB Account
 
-### 2. Set up the Client
+###  Set up the Client
 cd client
 npm install
 npm start
@@ -42,7 +42,7 @@ npm start
 
 
 
-### 3. Set up the Server
+###  Set up the Server
 cd server
 npm install
 npm run dev
