@@ -34,10 +34,7 @@ The project is divided into two main directories:
 - Firebase account and Firebase SDK
 - MongoDB Account
 
-### 1. Clone the repository
 
-```bash
-git clone https://github.com/GitAmanS/Youtube-Clone-Mern.git
 
 
 ### 2. Set up the Client
